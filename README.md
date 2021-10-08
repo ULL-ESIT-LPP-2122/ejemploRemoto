@@ -1,6 +1,6 @@
 # Práctica de Laboratorio #1
 
-  Este fichero está escribo en lenguaje Markdown
+  Este fichero está escrito en lenguaje Markdown
 
   1. Modifique este fichero para que contenga:
 
